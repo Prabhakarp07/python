@@ -4,3 +4,4 @@ devops tool
 maven will create artifact
 SVN also SCM tool
 bitbucket also SCM
+gitlab is a CI CD tool
