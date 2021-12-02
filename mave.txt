@@ -2,3 +2,4 @@ maven is build tool
 It is very easy to learn
 devops tool
 maven will create artifact
+SVN also SCM tool
