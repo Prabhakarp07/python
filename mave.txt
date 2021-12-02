@@ -1,7 +1,4 @@
 maven is build tool
-<<<<<<< HEAD
 It is very easy to learn
 devops tool
-=======
 maven will create artifact
->>>>>>> 1a76d255f6fff545f95587da4aa6a4d72487c30c
