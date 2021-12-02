@@ -1,1 +1,2 @@
 maven is build tool
+maven will create artifact
